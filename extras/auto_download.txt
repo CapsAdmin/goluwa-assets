@@ -1,4 +1,0 @@
-data/chatsounds/lists/Counter-Strike Source.dat
-data/chatsounds/lists/HALF-LIFE 2.dat
-data/chatsounds/lists/Left 4 Dead 2.dat
-data/chatsounds/lists/Team Fortress 2.dat
